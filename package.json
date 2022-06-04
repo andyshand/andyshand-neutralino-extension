@@ -1,0 +1,13 @@
+{
+  "name": "@mtyk/neutralino-extension",
+  "author": "More Than You Know Ltd",
+  "packageManager": "yarn@3.2.1",
+  "dependencies": {
+    "minimist": "^1.2.6",
+    "uuid": "^8.3.2",
+    "ws": "^8.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.39"
+  }
+}
